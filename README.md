@@ -15,6 +15,8 @@ Repository for Earth Data Analytics Bootcamp 2023
 
 Native grasslands account for nearly a quarter of ground surface vegetative cover, but have suffered significant global losses in habitat. While anthropogenic encroachment has contributed to these losses, dramatic changes in climate over the last few decades has taken a toll on grassland ecosystems (Bond, 2008). Consequently, native grasslands are endangered ecosystems, posing economic and ecological threats. Unfortunately, given the complications of a changing climate, restoration of native grasslands is all but simple. Efforts to rebuild and conserve grassland ecosystems now require careful planning and must account for future changes in climate inorder to build ecologic resilence (Kane et al., 2017). Ecologic planning will have to account for longer duration droughts, increased temperatures, and more variable extreme precipitation events predicted by climate forecasts. The time available to understand, conserve, and restore these critical ecosystems are shrinking rapidly, required immediate action.
 
+The purpose of this project is to create a habitat suitability model for one variety of native grass, Sorghastrum nutans, more commonly known as yellow indian grass or wood grass. This grass is found largely in eastern North America but has been observed in limited, select locations globally. The model will combine several soil, topography, and climate datasets to assess suitability. 
+
 **References**
 
 Bond, W.J. (2008). What limits trees in C4 grasslands adn savannas? Annual Review of Ecology, Evolution, and Systematics. v39, p641-659. doi: 10.1146/annurev.ecolsys.39.110707.173411
