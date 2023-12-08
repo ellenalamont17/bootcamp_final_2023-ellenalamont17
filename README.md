@@ -5,6 +5,12 @@ Repository for Earth Data Analytics Bootcamp 2023
 
 ---
 
+# Habitat suitability model for Sorghastrum nutans, a grass native to North America
+
+![Native Grasslands](https://i.guim.co.uk/img/media/bcc734e9651df1a711870c60728e9e46175dda1c/0_62_2048_1229/master/2048.jpg?width=620&dpr=2&s=none)
+
+*Photo of native grasslands. Photo Credit: [The Guardian](https://www.theguardian.com/environment/2021/nov/05/americas-native-grasslands-disappearing)*
+
 ## About this project
 
 Native grasslands account for nearly a quarter of ground surface vegetative cover, but have suffered significant global losses in habitat. While anthropogenic encroachment has contributed to these losses, dramatic changes in climate over the last few decades has taken a toll on grassland ecosystems (Bond, 2008). Consequently, native grasslands are endangered ecosystems, posing economic and ecological threats. Unfortunately, given the complications of a changing climate, restoration of native grasslands is all but simple. Efforts to rebuild and conserve grassland ecosystems now require careful planning and must account for future changes in climate inorder to build ecologic resilence (Kane et al., 2017). Ecologic planning will have to account for longer duration droughts, increased temperatures, and more variable extreme precipitation events predicted by climate forecasts. The time available to understand, conserve, and restore these critical ecosystems are shrinking rapidly, required immediate action.
