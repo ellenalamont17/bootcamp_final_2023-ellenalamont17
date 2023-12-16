@@ -25,4 +25,7 @@ Kane, Kristen, Diane Debinski, Chris Anderson, John Scasta, David Engle, and Jam
 
 ---
 
+This notebook uses the earth-data-analytics-env and additional import of the xarray-spatial (xrspatial) package.
+
+
 Explain how the code runs
