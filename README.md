@@ -25,7 +25,10 @@ Kane, Kristen, Diane Debinski, Chris Anderson, John Scasta, David Engle, and Jam
 
 ---
 
+## About this notebook
+
 This notebook uses the earth-data-analytics-env and additional import of the xarray-spatial (xrspatial) package.
 
+This code is memory intensive and often crashes codespaces. I recommend running on a desktop with locally downloaded datasets.
 
-Explain how the code runs
+Imports, directories, and global variables are defined at the beginning of the notebook. Note that the appropriate UTM zone for the study area should be defined in the global variables section. This is used to reproject data throughout the notebook. The URL for the grassland units is hardcoded into the code and does not need changed, only specific grasslands selected. For the POLARIS soil data, a function is included to autogenerate URLs depending on soil variable, statistic, and soil depth of interest. SRTM URLs are also static, but the type of product created from the elevation can be manipulated. For the Maca climate data, a specific URL will need assigned depending on the specific scenario to be analyzed. The code has not yet been modularized for simple selection like the with soil data. 
